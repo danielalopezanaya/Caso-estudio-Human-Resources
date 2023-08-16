@@ -1,3 +1,3 @@
-# Caso-estudio-Human-Resources
-Modelo de predicción de renuncias.
-modelo de aprendizaje supervisado de tipo clasificación, el cual realiza la predicción si un empleado va a renunciar o no en los proximos meses.
+# Human-Resources
+Resignation prediction model.
+supervised learning model of classification type, which predicts whether an employee is going to resign or not in the next months.
